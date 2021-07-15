@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+__pycache__/
+img/
+Scripts/
+share/
+qrcodes.html
+Lib/
+Include/
+LICENSE.txt
+cl/
